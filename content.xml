@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260527185204XCSZXO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605271852041POD0G</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Pequeños exploradores de la naturaleza!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Belén López Toledo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779897164450</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>b1959ef7-0569-4cc8-9f5d-25df2e7629aa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>b1959ef7-0569-4cc8-9f5d-25df2e7629aa</odePageId>
+      <odeBlockId>block-1779897198827-8q1s4cyha</odeBlockId>
+      <blockName>Bienvenidos</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>b1959ef7-0569-4cc8-9f5d-25df2e7629aa</odePageId>
+          <odeBlockId>block-1779897198827-8q1s4cyha</odeBlockId>
+          <odeIdeviceId>idevice-1779897198823-awvvvos35</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenidos, Pequeños Exploradores! 🚀</p>
+<p>¡Hola a todos y a todas! En este espacio web os vais a convertir en auténticos científicosy exploradores de la naturaleza.</p>
+<p>Juntos vamos a viajar por tres hábitats increíbles de nuestro planeta: ¡el bosque (forest), el océano (ocean) y el desierto (desert)! 🌲🐬🌵</p>
+<p>Preparad vuestras mochilas digitales y vuestras tabletas... ¡porque nuestra aventura bilingüe comienza YA! 🎒📱✨<img src="{{context_path}}/content/resources/sd1.jpg" width="626" height="416" alt="EXPLORANDO LA NATURALEZA" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897198823-awvvvos35","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos, Pequeños Exploradores! 🚀</p>\n<p>¡Hola a todos y a todas! En este espacio web os vais a convertir en auténticos científicosy exploradores de la naturaleza.</p>\n<p>Juntos vamos a viajar por tres hábitats increíbles de nuestro planeta: ¡el bosque (forest), el océano (ocean) y el desierto (desert)! 🌲🐬🌵</p>\n<p>Preparad vuestras mochilas digitales y vuestras tabletas... ¡porque nuestra aventura bilingüe comienza YA! 🎒📱✨<img src=\"{{context_path}}/content/resources/sd1.jpg\" width=\"626\" height=\"416\" alt=\"EXPLORANDO LA NATURALEZA\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779897851291-p0371zbxi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Misión inicial: nuestro proyecto (tarea 2.1)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Misión inicial: nuestro proyecto (tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Misión inicial: nuestro proyecto (tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Misión inicial: nuestro proyecto (tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779897851291-p0371zbxi</odePageId>
+      <odeBlockId>block-1779897900578-byi01gyv5</odeBlockId>
+      <blockName>Comenzamos nuestro proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779897851291-p0371zbxi</odePageId>
+          <odeBlockId>block-1779897900578-byi01gyv5</odeBlockId>
+          <odeIdeviceId>idevice-1779897900574-zurxzt3x0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: </p>
+<p>¡Pequeños exploradores de la naturaleza!</p>
+<p><br />Centro de interés o temática:</p>
+<p>El descubrimiento, clasificación y protección de los seres vivos (animales y plantas) y sus hábitats naturales, vinculándolo con la concienciación ambiental y el cuidado del entorno más cercano.</p>
+<p><br />Nivel: </p>
+<p>1º E.P.</p>
+<p><br />Temporalización:</p>
+<p>La propuesta se desarrollará a lo largo de 2 sesiones de 60 minutos (120 minutos en total), distribuidas de la siguiente manera:</p>
+<p>Sesión 1 (60 min): Familiarización técnica con las herramientas, reparto de roles y exploración interactiva de los hábitats virtuales.<br />Sesión 2 (60 min): Creación del producto final por parejas (clasificación), asamblea digital de transferencia y autoevaluación grupal.</p>
+<p>Materia o materias implicadas:</p>
+<p>Conocimiento del Medio Natural, Social y Cultural (Bloque de seres vivos y ecología).</p>
+<p>Educación Artística (Dimensión de diseño visual y creatividad).</p>
+<p>Lengua Castellana y Literatura (Fomento de la expresión oral en la asamblea y la lectoescritura inicial mediante pictogramas).</p>
+<p><br />Idioma:</p>
+<p>Bilingüe: Castellano e Inglés. La actividad se plantea bajo el enfoque CLIL/AICLE (Aprendizaje Integrado de Contenidos y Lenguas Extranjeras), utilizando de forma combinada ambas lenguas para la adquisición de los contenidos curriculares y digitales.</p>
+<p><br />Descripción general:</p>
+<p>Imagino esta sesión entrando al aula y transformando a mis niños y niñas de 1º de Primaria en auténticos "pequeños exploradores" de la naturaleza. Mi propósito no es dar una lección tradicional sobre ciencias, sino despertar su asombro de par en par. La aventura comienza organizando la clase en parejas cooperativas; en cada mesa, coloco una tarjeta física con pictogramas muy visuales y un código QR gigante. Al escanearlo con su tableta digital, la pantalla se convierte en una ventana mágica en tres dimensiones donde pueden "viajar" por el bosque (the forest), sumergirse en el océano (the ocean) o adentrarse en el desierto (the desert).</p>
+<p>Al encontrarnos en un centro bilingüe, he configurado la aplicación en inglés. Me entusiasma ver cómo, de manera casi instintiva, van asociando los sonidos reales del aula —el rugido de un león o el rumor del mar— con palabras como lion o sea creatures. Mientras exploran, se genera un murmullo precioso en el aula: se señalan la pantalla, discuten qué animal es, se ayudan si la conexión titubea y deciden juntos quién anota los descubrimientos en su cuaderno de campo analógico.</p>
+<p>Mi papel en este viaje es el de una guía silenciosa que camina entre las mesas, andamiando sus dudas lingüísticas y técnicas sin romper su autonomía. El broche final de la experiencia se vive en nuestra asamblea. Nos sentamos todos en círculo y cada pareja, apoyándose en unas estructuras comunicativas muy sencillas en inglés escritas en tarjetas ("This is a dolphin and lives in the ocean"), comparte con orgullo el ser vivo que más les ha impresionado, logrando así que el contenido curricular de Science, la lengua extranjera y la destreza con las pantallas se fusionen en un juego lleno de significado para ellos.</p>
+<p><br />Justificación: </p>
+<p>Diseñar esta actividad ha sido el resultado directo de pararme a pensar, con espíritu crítico, en lo que ocurrió en mi aula durante la rutina de pensamiento que analicé en la tarea 1.1. En aquella primera experiencia con las tabletas y los hábitats, me quedé con una sensación agridulce: por un lado, la enorme satisfacción de ver su motivación; por otro, el estrés de ver que el tiempo se nos escapaba de las manos y que, al dejar las parejas libres, los alumnos con más soltura con las pantallas monopolizaban el dispositivo, dejando a sus compañeros en un rol puramente pasivo. Además, cualquier pequeño menú digital complejo se convertía en una barrera para niños de 6 años que aún están iniciando la lectoescritura.</p>
+<p>Como docente que aspira al nivel B2, asumí que no podía repetir los mismos errores y que debía transformar esa incertidumbre en una estrategia pedagógica sólida. Por eso, en esta nueva propuesta, tomé decisiones muy firmes. La primera fue ampliar la experiencia a dos sesiones: la primera para que jueguen, se equivoquen y dominen la tableta, y la segunda para centrarnos de verdad en el contenido de Ciencias Naturales y en la expresión oral en inglés.</p>
+<p>La segunda decisión, y quizás la más importante para mí, fue estructurar el aprendizaje cooperativo con roles explícitos. Ahora, uno es el "Coordinador Digital" y el otro el "Secretario Visual", intercambiando los papeles a mitad de la clase. De este modo, me aseguro de que todos toquen la pantalla, asuman responsabilidades y nadie se quede atrás. Por último, eliminé la frustración técnica sustituyendo los menús complejos por accesos directos con códigos QR y andamios visuales adaptados a su edad. En definitiva, he buscado que la tecnología deje de ser un fin decorativo en mi aula bilingüe para convertirse en un medio inclusivo, natural y profundamente reflexivo que responda a la realidad de mis alumnos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897900574-zurxzt3x0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: </p>\n<p>¡Pequeños exploradores de la naturaleza!</p>\n<p><br />Centro de interés o temática:</p>\n<p>El descubrimiento, clasificación y protección de los seres vivos (animales y plantas) y sus hábitats naturales, vinculándolo con la concienciación ambiental y el cuidado del entorno más cercano.</p>\n<p><br />Nivel: </p>\n<p>1º E.P.</p>\n<p><br />Temporalización:</p>\n<p>La propuesta se desarrollará a lo largo de 2 sesiones de 60 minutos (120 minutos en total), distribuidas de la siguiente manera:</p>\n<p>Sesión 1 (60 min): Familiarización técnica con las herramientas, reparto de roles y exploración interactiva de los hábitats virtuales.<br />Sesión 2 (60 min): Creación del producto final por parejas (clasificación), asamblea digital de transferencia y autoevaluación grupal.</p>\n<p>Materia o materias implicadas:</p>\n<p>Conocimiento del Medio Natural, Social y Cultural (Bloque de seres vivos y ecología).</p>\n<p>Educación Artística (Dimensión de diseño visual y creatividad).</p>\n<p>Lengua Castellana y Literatura (Fomento de la expresión oral en la asamblea y la lectoescritura inicial mediante pictogramas).</p>\n<p><br />Idioma:</p>\n<p>Bilingüe: Castellano e Inglés. La actividad se plantea bajo el enfoque CLIL/AICLE (Aprendizaje Integrado de Contenidos y Lenguas Extranjeras), utilizando de forma combinada ambas lenguas para la adquisición de los contenidos curriculares y digitales.</p>\n<p><br />Descripción general:</p>\n<p>Imagino esta sesión entrando al aula y transformando a mis niños y niñas de 1º de Primaria en auténticos \"pequeños exploradores\" de la naturaleza. Mi propósito no es dar una lección tradicional sobre ciencias, sino despertar su asombro de par en par. La aventura comienza organizando la clase en parejas cooperativas; en cada mesa, coloco una tarjeta física con pictogramas muy visuales y un código QR gigante. Al escanearlo con su tableta digital, la pantalla se convierte en una ventana mágica en tres dimensiones donde pueden \"viajar\" por el bosque (the forest), sumergirse en el océano (the ocean) o adentrarse en el desierto (the desert).</p>\n<p>Al encontrarnos en un centro bilingüe, he configurado la aplicación en inglés. Me entusiasma ver cómo, de manera casi instintiva, van asociando los sonidos reales del aula —el rugido de un león o el rumor del mar— con palabras como lion o sea creatures. Mientras exploran, se genera un murmullo precioso en el aula: se señalan la pantalla, discuten qué animal es, se ayudan si la conexión titubea y deciden juntos quién anota los descubrimientos en su cuaderno de campo analógico.</p>\n<p>Mi papel en este viaje es el de una guía silenciosa que camina entre las mesas, andamiando sus dudas lingüísticas y técnicas sin romper su autonomía. El broche final de la experiencia se vive en nuestra asamblea. Nos sentamos todos en círculo y cada pareja, apoyándose en unas estructuras comunicativas muy sencillas en inglés escritas en tarjetas (\"This is a dolphin and lives in the ocean\"), comparte con orgullo el ser vivo que más les ha impresionado, logrando así que el contenido curricular de Science, la lengua extranjera y la destreza con las pantallas se fusionen en un juego lleno de significado para ellos.</p>\n<p><br />Justificación: </p>\n<p>Diseñar esta actividad ha sido el resultado directo de pararme a pensar, con espíritu crítico, en lo que ocurrió en mi aula durante la rutina de pensamiento que analicé en la tarea 1.1. En aquella primera experiencia con las tabletas y los hábitats, me quedé con una sensación agridulce: por un lado, la enorme satisfacción de ver su motivación; por otro, el estrés de ver que el tiempo se nos escapaba de las manos y que, al dejar las parejas libres, los alumnos con más soltura con las pantallas monopolizaban el dispositivo, dejando a sus compañeros en un rol puramente pasivo. Además, cualquier pequeño menú digital complejo se convertía en una barrera para niños de 6 años que aún están iniciando la lectoescritura.</p>\n<p>Como docente que aspira al nivel B2, asumí que no podía repetir los mismos errores y que debía transformar esa incertidumbre en una estrategia pedagógica sólida. Por eso, en esta nueva propuesta, tomé decisiones muy firmes. La primera fue ampliar la experiencia a dos sesiones: la primera para que jueguen, se equivoquen y dominen la tableta, y la segunda para centrarnos de verdad en el contenido de Ciencias Naturales y en la expresión oral en inglés.</p>\n<p>La segunda decisión, y quizás la más importante para mí, fue estructurar el aprendizaje cooperativo con roles explícitos. Ahora, uno es el \"Coordinador Digital\" y el otro el \"Secretario Visual\", intercambiando los papeles a mitad de la clase. De este modo, me aseguro de que todos toquen la pantalla, asuman responsabilidades y nadie se quede atrás. Por último, eliminé la frustración técnica sustituyendo los menús complejos por accesos directos con códigos QR y andamios visuales adaptados a su edad. En definitiva, he buscado que la tecnología deje de ser un fin decorativo en mi aula bilingüe para convertirse en un medio inclusivo, natural y profundamente reflexivo que responda a la realidad de mis alumnos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898061120-e9ce3nr57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.Pasaporte digital seguro (tarea 2.3)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Pasaporte digital seguro (tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.Pasaporte digital seguro (tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Pasaporte digital seguro (tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779898061120-e9ce3nr57</odePageId>
+      <odeBlockId>block-1779898122707-8ccp87vuw</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS PERSONALES</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898061120-e9ce3nr57</odePageId>
+          <odeBlockId>block-1779898122707-8ccp87vuw</odeBlockId>
+          <odeIdeviceId>idevice-1779898122705-m1wiej18a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía Indicaciones fundamentales para proteger nuestros datos y derechos en internet..jpg" width="800" height="2000" alt="INFOGRAFIA PROTECCIÓN DE DATOS" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898122705-m1wiej18a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía Indicaciones fundamentales para proteger nuestros datos y derechos en internet..jpg\" width=\"800\" height=\"2000\" alt=\"INFOGRAFIA PROTECCIÓN DE DATOS\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898336303-vvu27nbqt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. El Gran Reto: Nuestro Álbum (tarea 4.1)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El Gran Reto: Nuestro Álbum (tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. El Gran Reto: Nuestro Álbum (tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El Gran Reto: Nuestro Álbum (tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779898336303-vvu27nbqt</odePageId>
+      <odeBlockId>block-1779898637828-ycmx61mik</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898336303-vvu27nbqt</odePageId>
+          <odeBlockId>block-1779898637828-ycmx61mik</odeBlockId>
+          <odeIdeviceId>idevice-1779898637825-ovq0yjcyc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_abfej0abfej0abfe.png" width="1408" height="768" alt="PRODUCTO FINAL" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898637825-ovq0yjcyc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_abfej0abfej0abfe.png\" width=\"1408\" height=\"768\" alt=\"PRODUCTO FINAL\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779898336303-vvu27nbqt</odePageId>
+      <odeBlockId>block-1779898586745-yvwjz7u0n</odeBlockId>
+      <blockName>CREAMOS NUESTRO ALBÚM</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898336303-vvu27nbqt</odePageId>
+          <odeBlockId>block-1779898586745-yvwjz7u0n</odeBlockId>
+          <odeIdeviceId>idevice-1779898586742-4juwgwwdy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del hilo: Herramienta interactiva para mis Pequeños Exploradores: El muro visual y sonoro en 1º de EP 🗺️🔊</p>
+<p>¡Hola a todos y a todas!</p>
+<p>Comparto con vosotros la propuesta metodológica y tecnológica que servirá como canal para que mis alumnos y alumnas de 1º de Educación Primaria elaboren su producto final dentro de nuestra SdA Bilingüe "¡Pequeños exploradores de la naturaleza!".</p>
+<p>Herramienta digital seleccionada: Padlet (configurado en modo "Muro" o "Lienzo" colaborativo).<br />Producto final del alumnado: Creación de un "Álbum Digital de los Hábitats" cooperativo por parejas.<br />Objetivo de la herramienta: Centralizar en un único espacio interactivo las producciones multimedia del alumnado (clasificaciones, dibujos digitalizados de seres vivos, textos breves y audiodescripciones en inglés y castellano) para compartir los descubrimientos sobre el bosque, el océano y el desierto con el resto de la comunidad escolar.<br />🎯 Justificación Pedagógica y Adaptación al Contexto (Enfoque B2)<br />«La elección de Padlet no ha sido casual, sino el resultado de una profunda reflexión sobre las características madurativas de los niños y niñas de 6 años (1º de EP), que se encuentran en pleno proceso de adquisición de la lectoescritura, y la necesidad de subsanar la brecha digital y la gestión del tiempo que analicé en el Ciclo de Gibbs de la Tarea 1.1.</p>
+<p>Versatilidad y adecuación a la edad (6 años): Padlet ofrece una interfaz extremadamente intuitiva basada en el sistema de "arrastrar y soltar" o pulsar botones iconográficos muy sencillos (el símbolo +). Esto permite que los alumnos de primero de primaria puedan subir contenido de manera autónoma sin perderse en menús de navegación complejos que generen frustración.<br />Contexto y disponibilidad en el centro: En el CEIP San Sebastián contamos con un carro de tabletas digitales corporativas con una conectividad Wi-Fi estable. Al ser Padlet una herramienta basada en la nube que no requiere instalación de software pesado ni registros individuales para el alumnado (acceden de forma segura a través de un único enlace compartido o código QR gigante en la mesa), la preparación de la sesión es invisible para el ritmo del aula, maximizando el tiempo de aprendizaje real de Science.<br />Fomento de los roles cooperativos: Vinculándolo con las decisiones tomadas en mi Tarea 2.1, las parejas trabajarán con roles definidos. El Coordinador Digital se encargará de pulsar la interfaz y el Secretario Visual de validar la tarjeta de pictogramas analógica. La versatilidad de Padlet permite que ambos interactúen de forma integrada.<br />♿ Opciones de Accesibilidad y Pautas DUA (Criterio Fundamental de la Lista de Cotejo)<br />La fuerza de esta elección radica en su capacidad para ofrecer un entorno de enseñanza verdaderamente inclusivo y adaptado a la diversidad (Acondicionamiento de tecnologías digitales):</p>
+<p>Múltiples formas de expresión (Audio y Grabación de voz): Padlet cuenta con una grabadora de audio nativa dentro de la propia herramienta. Aquellos alumnos que presenten dificultades en la lectoescritura inicial o que requieran un andamiaje lingüístico en el área bilingüe pueden pulsar el icono del micrófono y grabar sus descripciones oralmente en inglés o castellano ("This is a dolphin and lives in the ocean"). Esto garantiza que la evaluación valore su competencia científica y lingüística oral, eliminando la barrera de la escritura mecánica.<br />Accesibilidad visual y andamiaje: Permite asociar texto, imágenes en alta resolución, pictogramas y audio en una misma tarjeta. Además, es totalmente compatible con los lectores de pantalla nativos de las tabletas del centro y el zoom del navegador, facilitando que cualquier alumno con necesidades específicas de apoyo educativo (NEAE) participe en igualdad de condiciones en la construcción del muro colectivo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898586742-4juwgwwdy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del hilo: Herramienta interactiva para mis Pequeños Exploradores: El muro visual y sonoro en 1º de EP 🗺️🔊</p>\n<p>¡Hola a todos y a todas!</p>\n<p>Comparto con vosotros la propuesta metodológica y tecnológica que servirá como canal para que mis alumnos y alumnas de 1º de Educación Primaria elaboren su producto final dentro de nuestra SdA Bilingüe \"¡Pequeños exploradores de la naturaleza!\".</p>\n<p>Herramienta digital seleccionada: Padlet (configurado en modo \"Muro\" o \"Lienzo\" colaborativo).<br />Producto final del alumnado: Creación de un \"Álbum Digital de los Hábitats\" cooperativo por parejas.<br />Objetivo de la herramienta: Centralizar en un único espacio interactivo las producciones multimedia del alumnado (clasificaciones, dibujos digitalizados de seres vivos, textos breves y audiodescripciones en inglés y castellano) para compartir los descubrimientos sobre el bosque, el océano y el desierto con el resto de la comunidad escolar.<br />🎯 Justificación Pedagógica y Adaptación al Contexto (Enfoque B2)<br />«La elección de Padlet no ha sido casual, sino el resultado de una profunda reflexión sobre las características madurativas de los niños y niñas de 6 años (1º de EP), que se encuentran en pleno proceso de adquisición de la lectoescritura, y la necesidad de subsanar la brecha digital y la gestión del tiempo que analicé en el Ciclo de Gibbs de la Tarea 1.1.</p>\n<p>Versatilidad y adecuación a la edad (6 años): Padlet ofrece una interfaz extremadamente intuitiva basada en el sistema de \"arrastrar y soltar\" o pulsar botones iconográficos muy sencillos (el símbolo +). Esto permite que los alumnos de primero de primaria puedan subir contenido de manera autónoma sin perderse en menús de navegación complejos que generen frustración.<br />Contexto y disponibilidad en el centro: En el CEIP San Sebastián contamos con un carro de tabletas digitales corporativas con una conectividad Wi-Fi estable. Al ser Padlet una herramienta basada en la nube que no requiere instalación de software pesado ni registros individuales para el alumnado (acceden de forma segura a través de un único enlace compartido o código QR gigante en la mesa), la preparación de la sesión es invisible para el ritmo del aula, maximizando el tiempo de aprendizaje real de Science.<br />Fomento de los roles cooperativos: Vinculándolo con las decisiones tomadas en mi Tarea 2.1, las parejas trabajarán con roles definidos. El Coordinador Digital se encargará de pulsar la interfaz y el Secretario Visual de validar la tarjeta de pictogramas analógica. La versatilidad de Padlet permite que ambos interactúen de forma integrada.<br />♿ Opciones de Accesibilidad y Pautas DUA (Criterio Fundamental de la Lista de Cotejo)<br />La fuerza de esta elección radica en su capacidad para ofrecer un entorno de enseñanza verdaderamente inclusivo y adaptado a la diversidad (Acondicionamiento de tecnologías digitales):</p>\n<p>Múltiples formas de expresión (Audio y Grabación de voz): Padlet cuenta con una grabadora de audio nativa dentro de la propia herramienta. Aquellos alumnos que presenten dificultades en la lectoescritura inicial o que requieran un andamiaje lingüístico en el área bilingüe pueden pulsar el icono del micrófono y grabar sus descripciones oralmente en inglés o castellano (\"This is a dolphin and lives in the ocean\"). Esto garantiza que la evaluación valore su competencia científica y lingüística oral, eliminando la barrera de la escritura mecánica.<br />Accesibilidad visual y andamiaje: Permite asociar texto, imágenes en alta resolución, pictogramas y audio en una misma tarjeta. Además, es totalmente compatible con los lectores de pantalla nativos de las tabletas del centro y el zoom del navegador, facilitando que cualquier alumno con necesidades específicas de apoyo educativo (NEAE) participe en igualdad de condiciones en la construcción del muro colectivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898728541-wk7tdbtql</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. El Mapa de Ruta (tarea 7.1)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. El Mapa de Ruta (tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. El Mapa de Ruta (tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. El Mapa de Ruta (tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779898728541-wk7tdbtql</odePageId>
+      <odeBlockId>block-1779898785306-hj16mlma1</odeBlockId>
+      <blockName>Organización</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898728541-wk7tdbtql</odePageId>
+          <odeBlockId>block-1779898785306-hj16mlma1</odeBlockId>
+          <odeIdeviceId>idevice-1779898785304-s4gcxtzmy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/7.1. Línea temporal para la organización. Pequeños exploradores de la naturaleza.jpg" width="1470" height="827" alt="Linea temporal" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898785304-s4gcxtzmy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/7.1. Línea temporal para la organización. Pequeños exploradores de la naturaleza.jpg\" width=\"1470\" height=\"827\" alt=\"Linea temporal\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898848758-rkl7s23b8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Herramientas de Exploración (tarea 5.1)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Herramientas de Exploración (tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Herramientas de Exploración (tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Herramientas de Exploración (tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898880073-vqjn0f8co</odePageId>
+  <odeParentPageId>page-1779898848758-rkl7s23b8</odeParentPageId>
+  <pageName>5.1: Nuestro Muro de Investigación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1: Nuestro Muro de Investigación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779898880073-vqjn0f8co</odePageId>
+      <odeBlockId>block-1779898917544-psi3dpslo</odeBlockId>
+      <blockName>PADLET ALUMNADO</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898880073-vqjn0f8co</odePageId>
+          <odeBlockId>block-1779898917544-psi3dpslo</odeBlockId>
+          <odeIdeviceId>idevice-1779898917541-9chvuirz0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/bloptol191/pequenos-exploradores-de-los-habitats-habitat-explorers-w47ifbqdex2wotr9" target="_blank" rel="noopener" title="">PADLET ALUMNADO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898917541-9chvuirz0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/bloptol191/pequenos-exploradores-de-los-habitats-habitat-explorers-w47ifbqdex2wotr9\" target=\"_blank\" rel=\"noopener\" title=\"\">PADLET ALUMNADO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779898895724-z6z9tz2tg</odePageId>
+  <odeParentPageId>page-1779898848758-rkl7s23b8</odeParentPageId>
+  <pageName>5.2: Repositorio Docente</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.2: Repositorio Docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779898895724-z6z9tz2tg</odePageId>
+      <odeBlockId>block-1779899037707-lz0jt701s</odeBlockId>
+      <blockName>SYMBALOO DOCENTE</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779898895724-z6z9tz2tg</odePageId>
+          <odeBlockId>block-1779899037707-lz0jt701s</odeBlockId>
+          <odeIdeviceId>idevice-1779899037705-3f9aepran</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/mix/edu-hvoc" target="_blank" rel="noopener" title="">SYMBALOO DOCENTE</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779899037705-3f9aepran","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/mix/edu-hvoc\" target=\"_blank\" rel=\"noopener\" title=\"\">SYMBALOO DOCENTE</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779899116023-lvo8pbgo1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. ¿Cómo sé que lo he logrado? (tarea 8.1)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¿Cómo sé que lo he logrado? (tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. ¿Cómo sé que lo he logrado? (tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¿Cómo sé que lo he logrado? (tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779899326019-h8tgtq164</odePageId>
+  <odeParentPageId>page-1779899116023-lvo8pbgo1</odeParentPageId>
+  <pageName>6.1: Rúbrica de Desempeño</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1: Rúbrica de Desempeño</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779899326019-h8tgtq164</odePageId>
+      <odeBlockId>block-1779899327258-088mzmjs4</odeBlockId>
+      <blockName>Rúbrica analítica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779899326019-h8tgtq164</odePageId>
+          <odeBlockId>block-1779899327258-088mzmjs4</odeBlockId>
+          <odeIdeviceId>idevice-1779899327256-1aehk6q7o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 214px;">
+<tbody>
+<tr style="height: 49px;">
+<td style="width: 24.9826%; height: 49px;">
+<p>Indicadores de Logro</p>
+</td>
+<td style="width: 24.9826%; height: 49px;">
+<p>Sobresaliente (4)</p>
+</td>
+<td style="width: 24.9826%; height: 49px;">
+<p>Notable/Bien (3)</p>
+</td>
+<td style="width: 24.9826%; height: 49px;">
+<p>Iniciado/Insuficiente (2-1)</p>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9826%; height: 33px;">Uso Inclusivo de la<br />Tecnología (CE.1.2)</td>
+<td style="width: 24.9826%; height: 33px;">Utiliza la tableta<br />mediante códigos QR<br />con total autonomía.<br />Respeta de manera<br />estricta el rol<br />asignado<br />(Coordinador o<br />Secretario) e<br />intercambia el<br />dispositivo de forma<br />armoniosa.</td>
+<td style="width: 24.9826%; height: 33px;">Accede al entorno<br />Padlet con ayuda<br />mínima de la plantilla<br />visual. Cumple su rol<br />la mayor parte del<br />tiempo, aunque<br />requiere mediación<br />puntual para ceder la<br />pantalla.</td>
+<td style="width: 24.9826%; height: 33px;">Muestra dificultades<br />críticas para acceder<br />mediante el código<br />QR o monopoliza el<br />dispositivo digital,<br />impidiendo la<br />participación pasiva<br />de su compañero de<br />equipo.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9826%; height: 33px;"> Clasificación Científica y CLIL (CE.2.1)<br /></td>
+<td style="width: 24.9826%; height: 33px;"> Identifica y asocia correctamente los animales a sus hábitats específicos (forest, ocean, desert). Incorpora estructuras orales bilingües claras en su audiodescripción.<br /></td>
+<td style="width: 24.9826%; height: 33px;"> Clasifica los seres vivos de forma correcta pero confunde elementos puntuales. En la grabación usa palabras sueltas de vocabulario bilingüe sin llegar a la estructura.<br /></td>
+<td style="width: 24.9826%; height: 33px;"> Presenta errores severos en la vinculación de fauna y hábitat. No realiza la grabación de audio o evita el uso de la terminología científica básica trabajada.<br /></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779899327256-1aehk6q7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 214px;\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 24.9826%; height: 49px;\">\n<p>Indicadores de Logro</p>\n</td>\n<td style=\"width: 24.9826%; height: 49px;\">\n<p>Sobresaliente (4)</p>\n</td>\n<td style=\"width: 24.9826%; height: 49px;\">\n<p>Notable/Bien (3)</p>\n</td>\n<td style=\"width: 24.9826%; height: 49px;\">\n<p>Iniciado/Insuficiente (2-1)</p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9826%; height: 33px;\">Uso Inclusivo de la<br />Tecnología (CE.1.2)</td>\n<td style=\"width: 24.9826%; height: 33px;\">Utiliza la tableta<br />mediante códigos QR<br />con total autonomía.<br />Respeta de manera<br />estricta el rol<br />asignado<br />(Coordinador o<br />Secretario) e<br />intercambia el<br />dispositivo de forma<br />armoniosa.</td>\n<td style=\"width: 24.9826%; height: 33px;\">Accede al entorno<br />Padlet con ayuda<br />mínima de la plantilla<br />visual. Cumple su rol<br />la mayor parte del<br />tiempo, aunque<br />requiere mediación<br />puntual para ceder la<br />pantalla.</td>\n<td style=\"width: 24.9826%; height: 33px;\">Muestra dificultades<br />críticas para acceder<br />mediante el código<br />QR o monopoliza el<br />dispositivo digital,<br />impidiendo la<br />participación pasiva<br />de su compañero de<br />equipo.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9826%; height: 33px;\"> Clasificación Científica y CLIL (CE.2.1)<br /></td>\n<td style=\"width: 24.9826%; height: 33px;\"> Identifica y asocia correctamente los animales a sus hábitats específicos (forest, ocean, desert). Incorpora estructuras orales bilingües claras en su audiodescripción.<br /></td>\n<td style=\"width: 24.9826%; height: 33px;\"> Clasifica los seres vivos de forma correcta pero confunde elementos puntuales. En la grabación usa palabras sueltas de vocabulario bilingüe sin llegar a la estructura.<br /></td>\n<td style=\"width: 24.9826%; height: 33px;\"> Presenta errores severos en la vinculación de fauna y hábitat. No realiza la grabación de audio o evita el uso de la terminología científica básica trabajada.<br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779899754961-3lnpycr9z</odePageId>
+  <odeParentPageId>page-1779899116023-lvo8pbgo1</odeParentPageId>
+  <pageName>Mi Diana de Logros (DUA)</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mi Diana de Logros (DUA)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779899754961-3lnpycr9z</odePageId>
+      <odeBlockId>block-1779899759030-h1lxh8v6l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779899754961-3lnpycr9z</odePageId>
+          <odeBlockId>block-1779899759030-h1lxh8v6l</odeBlockId>
+          <odeIdeviceId>idevice-1779899759028-xtxz5g8fw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_axvvsjaxvvsjaxvv.png" width="1408" height="768" alt="DIANA DE AUTOEVALUACIÓN" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779899759028-xtxz5g8fw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_axvvsjaxvvsjaxvv.png\" width=\"1408\" height=\"768\" alt=\"DIANA DE AUTOEVALUACIÓN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779899843224-ic0ppstkr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía Didáctica (tarea 6.1)</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía Didáctica (tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Guía Didáctica (tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía Didáctica (tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779899843224-ic0ppstkr</odePageId>
+      <odeBlockId>block-1779899914967-g93oppwk9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779899843224-ic0ppstkr</odePageId>
+          <odeBlockId>block-1779899914967-g93oppwk9</odeBlockId>
+          <odeIdeviceId>idevice-1779899914964-52m2hoydo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 170px;">
+<tbody>
+<tr style="height: 71px;">
+<td style="width: 19.986%; height: 71px; text-align: justify;"><span style="color: #2dc26b;"><strong>     TAREA </strong></span><br /><br /></td>
+<td style="width: 19.986%; height: 71px; text-align: justify;"><span style="color: #2dc26b;"><strong>CRITERIO DE EVALUACIÓN</strong></span><br /><br /></td>
+<td style="width: 19.986%; height: 71px; text-align: justify;"><span style="color: #2dc26b;"><strong>AGRUPAMIENTO</strong></span><br /><br /></td>
+<td style="width: 19.986%; height: 71px; text-align: justify;"><span style="color: #2dc26b;"><strong>TIEMPO APROXIMADO</strong></span><br /><br /></td>
+<td style="width: 19.9865%; height: 71px; text-align: justify;"><span style="color: #2dc26b;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.986%; height: 33px; text-align: justify;">
+<p>Tarea 1: Activación de conocimientos y asamblea digital.Exploración guiada en la pizarra digital sobre qué es un hábitat y los seres vivos. Presentación de la "Pandilla REA" y pautas de navegación segura.</p>
+<p><br /></p>
+<p><br /><br /><br /><br /></p>
+</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">CE.1.1. Buscar, seleccionar y organizar información concreta y sencilla, de fuentes seguras y confiables, utilizándola en investigaciones guiadas vinculadas al conocimiento del medio.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">Gran grupo / Asamblea.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">20 minutos.</td>
+<td style="width: 19.9865%; height: 33px; text-align: justify;">Pizarra Digital Interactiva (PDI) y recursos curados en el entorno seguro de Padlet.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.986%; height: 33px; text-align: justify;">
+<p>     Tarea 2: Exploradores de Hábitats en Red (Sesión 1).Investigación por parejas cooperativas (Coordinador Digital y Secretario Visual) a través del escaneo de códigos QR gigantes para explorar los recursos de Padlet sobre el bosque, océano y desierto.</p>
+<p><br /></p>
+<p><br /><br /><br /><br /></p>
+</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">CE.1.2. Avanzar de forma guiada en el uso de tecnologías digitales básicas, interactivas y seguras para buscar información básica sobre el entorno natural y las características de los animales.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">Parejas cooperativas con roles explícitos y rotativos.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">40 minutos.</td>
+<td style="width: 19.9865%; height: 33px; text-align: justify;">Tabletas digitales corporativas del centro con acceso gamificado vía Código QR a Padlet.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.986%; height: 33px; text-align: justify;">
+<p>  Tarea 3: Construcción del Álbum Digital y Audiodescripción (Sesión 2).Maquetación por parejas de su producto final. Los alumnos insertarán la foto de su ser vivo catalogado y grabarán su voz de forma oral (en inglés y castellano) describiendo el hábitat.<br /><br /></p>
+<p><br /></p>
+<p><br /><br /><br /></p>
+</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">CE.2.1. Reconocer, clasificar y comparar las características y los hábitats de los principales grupos de seres vivos a través de observaciones directas o recursos digitales básicos, mostrando actitudes de respeto y cuidado.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">Parejas cooperativas.</td>
+<td style="width: 19.986%; height: 33px; text-align: justify;">40 minutos.</td>
+<td style="width: 19.9865%; height: 33px; text-align: justify;">Herramienta interactiva en la nube (Padlet / Grabadora de audio nativa de la aplicación).</td>
+</tr>
+<tr>
+<td style="width: 19.986%; text-align: justify;">
+<p>     Tarea 4: Coevaluación y transferencia ecológica.Puesta en común en el aula proyectando el Muro colaborativo. Reflexión final sobre los "Eco-Consejos" para cuidar el planeta de forma sostenible. Autoevaluación a través de tarjetas de pictogramas analógicas.<br /><br /><br /><br /><br /></p>
+</td>
+<td style="width: 19.986%; text-align: justify;">CE.2.4. Promover y realizar de forma guiada acciones individuales y colectivas orientadas a la conservación del medio ambiente, la biodiversidad y el uso saludable y sostenible de los recursos del entorno físico y virtual.</td>
+<td style="width: 19.986%; text-align: justify;">Gran grupo y autoevaluación individual.</td>
+<td style="width: 19.986%; text-align: justify;">20 minutos.</td>
+<td style="width: 19.9865%; text-align: justify;">Proyección en PDI de Padlet y tarjetas de autoevaluación con pictogramas (DUA).</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779899914964-52m2hoydo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 170px;\">\n<tbody>\n<tr style=\"height: 71px;\">\n<td style=\"width: 19.986%; height: 71px; text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>     TAREA </strong></span><br /><br /></td>\n<td style=\"width: 19.986%; height: 71px; text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>CRITERIO DE EVALUACIÓN</strong></span><br /><br /></td>\n<td style=\"width: 19.986%; height: 71px; text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>AGRUPAMIENTO</strong></span><br /><br /></td>\n<td style=\"width: 19.986%; height: 71px; text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>TIEMPO APROXIMADO</strong></span><br /><br /></td>\n<td style=\"width: 19.9865%; height: 71px; text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">\n<p>Tarea 1: Activación de conocimientos y asamblea digital.Exploración guiada en la pizarra digital sobre qué es un hábitat y los seres vivos. Presentación de la \"Pandilla REA\" y pautas de navegación segura.</p>\n<p><br /></p>\n<p><br /><br /><br /><br /></p>\n</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">CE.1.1. Buscar, seleccionar y organizar información concreta y sencilla, de fuentes seguras y confiables, utilizándola en investigaciones guiadas vinculadas al conocimiento del medio.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">Gran grupo / Asamblea.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">20 minutos.</td>\n<td style=\"width: 19.9865%; height: 33px; text-align: justify;\">Pizarra Digital Interactiva (PDI) y recursos curados en el entorno seguro de Padlet.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">\n<p>     Tarea 2: Exploradores de Hábitats en Red (Sesión 1).Investigación por parejas cooperativas (Coordinador Digital y Secretario Visual) a través del escaneo de códigos QR gigantes para explorar los recursos de Padlet sobre el bosque, océano y desierto.</p>\n<p><br /></p>\n<p><br /><br /><br /><br /></p>\n</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">CE.1.2. Avanzar de forma guiada en el uso de tecnologías digitales básicas, interactivas y seguras para buscar información básica sobre el entorno natural y las características de los animales.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">Parejas cooperativas con roles explícitos y rotativos.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">40 minutos.</td>\n<td style=\"width: 19.9865%; height: 33px; text-align: justify;\">Tabletas digitales corporativas del centro con acceso gamificado vía Código QR a Padlet.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">\n<p>  Tarea 3: Construcción del Álbum Digital y Audiodescripción (Sesión 2).Maquetación por parejas de su producto final. Los alumnos insertarán la foto de su ser vivo catalogado y grabarán su voz de forma oral (en inglés y castellano) describiendo el hábitat.<br /><br /></p>\n<p><br /></p>\n<p><br /><br /><br /></p>\n</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">CE.2.1. Reconocer, clasificar y comparar las características y los hábitats de los principales grupos de seres vivos a través de observaciones directas o recursos digitales básicos, mostrando actitudes de respeto y cuidado.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">Parejas cooperativas.</td>\n<td style=\"width: 19.986%; height: 33px; text-align: justify;\">40 minutos.</td>\n<td style=\"width: 19.9865%; height: 33px; text-align: justify;\">Herramienta interactiva en la nube (Padlet / Grabadora de audio nativa de la aplicación).</td>\n</tr>\n<tr>\n<td style=\"width: 19.986%; text-align: justify;\">\n<p>     Tarea 4: Coevaluación y transferencia ecológica.Puesta en común en el aula proyectando el Muro colaborativo. Reflexión final sobre los \"Eco-Consejos\" para cuidar el planeta de forma sostenible. Autoevaluación a través de tarjetas de pictogramas analógicas.<br /><br /><br /><br /><br /></p>\n</td>\n<td style=\"width: 19.986%; text-align: justify;\">CE.2.4. Promover y realizar de forma guiada acciones individuales y colectivas orientadas a la conservación del medio ambiente, la biodiversidad y el uso saludable y sostenible de los recursos del entorno físico y virtual.</td>\n<td style=\"width: 19.986%; text-align: justify;\">Gran grupo y autoevaluación individual.</td>\n<td style=\"width: 19.986%; text-align: justify;\">20 minutos.</td>\n<td style=\"width: 19.9865%; text-align: justify;\">Proyección en PDI de Padlet y tarjetas de autoevaluación con pictogramas (DUA).</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779899855042-h3oszc0q6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y licencia</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y licencia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779899855042-h3oszc0q6</odePageId>
+      <odeBlockId>block-1779899856702-wt4kfpnhk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779899855042-h3oszc0q6</odePageId>
+          <odeBlockId>block-1779899856702-wt4kfpnhk</odeBlockId>
+          <odeIdeviceId>idevice-1779899856700-i02sosi3f</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Pequeños exploradores de la naturaleza!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Belén López Toledo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
